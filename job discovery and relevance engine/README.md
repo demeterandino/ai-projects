@@ -3,3 +3,9 @@ AI-powered Job Discovery & Relevance Engine
 	•	Hard constraints (location, language, exclusions)
 	•	AI-based multi-dimensional scoring
 	•	Human-in-the-loop decision
+
+Architecture:
+
+
+
+Google Alerts setting
